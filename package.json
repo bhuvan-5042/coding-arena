@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.47.10",
+    "bullmq": "^5.28.1",
+    "ioredis": "^5.4.2",
     "next": "16.1.3",
     "react": "19.2.3",
     "react-dom": "19.2.3"
